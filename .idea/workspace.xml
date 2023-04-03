@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d675b4ff-4735-43e4-b508-6e3077b4cbaf" name="Changes" comment="" />
+    <list default="true" id="d675b4ff-4735-43e4-b508-6e3077b4cbaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mobilier/MainApp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mobilier/Mobilier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mobilier/Placa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mobilier.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Caluclator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Caluclator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercitiul1/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercitiul1/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercitiul1/Persoana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercitiul1/Persoana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercitiul2/MainApp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercitiul2/MainApp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercitiul2/PerecheNumere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercitiul2/PerecheNumere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/nr.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/nr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/persoane.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/persoane.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Caluclator/CalculatorTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Caluclator/CalculatorTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercitiul2/PerecheNumereTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercitiul2/PerecheNumereTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -17,20 +51,129 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2NTIHmxuYc1nS41NuhaNV8OzIwB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercitiul2" />
+      <recent name="Caluclator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp3">
+    <configuration name="MainApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mobilier.MainApp3" />
+      <module name="Laborator5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mobilier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerecheNumereTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Laborator5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercitiul2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercitiul2" />
+      <option name="MAIN_CLASS_NAME" value="exercitiul2.PerecheNumereTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerecheNumereTest.Test1_fib" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Laborator5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercitiul2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercitiul2" />
+      <option name="MAIN_CLASS_NAME" value="exercitiul2.PerecheNumereTest" />
+      <option name="METHOD_NAME" value="Test1_fib" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerecheNumereTest.Test2_suma_numere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Laborator5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercitiul2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercitiul2" />
+      <option name="MAIN_CLASS_NAME" value="exercitiul2.PerecheNumereTest" />
+      <option name="METHOD_NAME" value="Test2_suma_numere" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerecheNumereTest.Test3_suma_numere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Laborator5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercitiul2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercitiul2" />
+      <option name="MAIN_CLASS_NAME" value="exercitiul2.PerecheNumereTest" />
+      <option name="METHOD_NAME" value="Test3_suma_numere" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp3" />
+        <item itemvalue="JUnit.PerecheNumereTest" />
+        <item itemvalue="JUnit.PerecheNumereTest.Test1_fib" />
+        <item itemvalue="JUnit.PerecheNumereTest.Test2_suma_numere" />
+        <item itemvalue="JUnit.PerecheNumereTest.Test3_suma_numere" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +182,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679681560838</updated>
+      <workItem from="1679681562845" duration="13871000" />
+      <workItem from="1680487072434" duration="6823000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
